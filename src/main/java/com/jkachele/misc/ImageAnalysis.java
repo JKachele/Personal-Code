@@ -1,4 +1,4 @@
-package com.jkachele.personal;
+package com.jkachele.misc;
 //Author: Justin Kachele
 
 import java.awt.image.BufferedImage;

@@ -1,4 +1,4 @@
-package com.jkachele.personal;
+package com.jkachele.misc;
 
 
 public class JavaTests{

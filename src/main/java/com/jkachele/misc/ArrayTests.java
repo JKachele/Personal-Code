@@ -1,4 +1,4 @@
-package com.jkachele.personal;
+package com.jkachele.misc;
 import java.util.*;
 
 public class ArrayTests {

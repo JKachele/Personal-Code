@@ -1,4 +1,4 @@
-package com.jkachele.personal;
+package com.jkachele.misc;
 import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
